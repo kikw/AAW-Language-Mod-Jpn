@@ -2,11 +2,10 @@
 
 "AAW Language Mod 日本語データ"は"Alan's Automaton Workshop"に言語を追加、カスタマイズするための公式Mod、"AAW Language Mod"用の日本語データです。
 
-Alan's Automaton Workshop
+Alan's Automaton Workshop  
 -Steam page: https://store.steampowered.com/app/1289990  
-AAW Language Mod
--GitHub page: https://github.com/Laputa-Labs/AAW-Language-Mod	
-
+AAW Language Mod  
+-GitHub page: https://github.com/Laputa-Labs/AAW-Language-Mod  
 
 ## 導入方法
 

@@ -1,4 +1,5 @@
-﻿# AAW Language Mod 日本語データ
+﻿
+# AAW Language Mod 日本語データ
 
 "AAW Language Mod 日本語データ"は"Alan's Automaton Workshop"に言語を追加、カスタマイズするための公式Mod、"AAW Language Mod"用の日本語データです。
 
@@ -9,10 +10,10 @@ AAW Language Mod
 
 ## 導入方法
 
-1. 公式Modの導入  
-	上記のGithubより、AAW Language Modをダウンロードし導入してください。
-2. 言語データの導入  
-	当リポジトリよりダウンロードしたものを、公式Modに上書きしてください。
+1. 言語データの導入  
+	当リポジトリよりダウンロードしたファイルを、```ゲームインストールフォルダ/Alan's Automaton Workshop_Data/Localization/```にコピーしてください。
+2. ゲーム内の設定から日本語を選択し、ゲームを再起動してください。
+	
 
 ## ライセンス
 

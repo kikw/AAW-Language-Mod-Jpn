@@ -14,6 +14,8 @@ AAW Language Mod
 	当リポジトリよりダウンロードしたファイルを、```ゲームインストールフォルダ/Alan's Automaton Workshop_Data/Localization/```にコピーしてください。
 2. ゲーム内の設定から日本語を選択し、ゲームを再起動してください。
 	
+> 以下のサイトで、詳しい導入方法や、フォント差し替えModを紹介しています。良ければ参考にしてください。  
+> https://porte-parapluies.web.app/games/aaw/  
 
 ## ライセンス
 
